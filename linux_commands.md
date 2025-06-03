@@ -16,7 +16,7 @@ rmdir dir/      # Remove an empty directory
 
 ---
 
-🔐 File Permissions & Ownership
+## 🔐 File Permissions & Ownership
 
 chmod +x script.sh     # Make a script executable
 chmod 755 file         # Set read/write/execute for owner, read/execute for group/others
@@ -27,7 +27,7 @@ umask                  # Show default permissions
 
 ---
 
-⚙️ System Info & Monitoring
+## ⚙️ System Info & Monitoring
 
 top             # Real-time system processes
 htop            # Better version of top (if installed)
@@ -40,7 +40,7 @@ whoami          # Show current user
 
 ---
 
-🌐 Networking
+## 🌐 Networking
 
 ip a                  # Show IP addresses
 ping google.com       # Test network connection
@@ -52,7 +52,7 @@ traceroute 8.8.8.8    # Trace network path (install if needed)
 
 ---
 
-🧪 Useful for Cybersecurity
+## 🧪 Useful for Cybersecurity
 
 history                   # View previously run commands
 alias ll='ls -la'         # Create a command shortcut
@@ -63,7 +63,7 @@ find / -name file.txt     # Find file in entire system
 
 ---
 
-📌 Coming Soon
+## 📌 Coming Soon
 
 Shell scripting examples
 
